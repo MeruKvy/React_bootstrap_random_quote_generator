@@ -1,0 +1,17 @@
+
+
+.card {
+  width: 500px;
+  margin-left: 325px;
+  margin-top: 210px;
+  margin-bottom: 500px;
+  
+}
+*{
+
+  transition: all 0.8s ease-in-out; 
+
+}
+.btn {
+  transition: all 0.8s ease-in-out; 
+}
