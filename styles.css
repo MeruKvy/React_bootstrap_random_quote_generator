@@ -1,0 +1,30 @@
+
+
+.card {
+  width: 500px;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  margin-top: 210px;
+
+  
+}
+*{
+
+  transition: all 0.8s ease-in-out; 
+
+}
+.btn {
+  transition: all 0.8s ease-in-out; 
+}
+.newQuote{
+width: 130px;
+font-weight: bold;
+}
+.twitter{
+width: 100px;
+}
+.tumblr {
+width: 100px;
+}
